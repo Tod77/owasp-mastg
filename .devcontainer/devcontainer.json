@@ -1,6 +1,6 @@
 {
   "name": "MkDocs-VSCode",
-  "build": {
+  "build": 
     "context": "..",
     "dockerfile": "../Dockerfile"
   },
